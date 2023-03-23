@@ -1,4 +1,4 @@
-![fabulous-youtiao-cfc9eb netlify app_](https://user-images.githubusercontent.com/86876940/227374737-9ea18e35-49fc-4151-8e35-d23a0f2a08af.png)
+![fabulous-youtiao-cfc9eb netlify app_](https://user-images.githubusercontent.com/86876940/227375026-a69831b9-34bc-4db9-b4ce-107286dfb943.png)
 
 ## Calculator
 Simple yet always challenging calculator project is completed with React.
